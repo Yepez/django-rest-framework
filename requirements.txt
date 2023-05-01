@@ -1,0 +1,4 @@
+django
+django-extensions
+django_rest_framework
+pydotplus
